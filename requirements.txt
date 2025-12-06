@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+mlflow
+streamlit
+matplotlib
+seaborn
+pyyaml
+jinja2
+sqlalchemy
+python-dotenv
