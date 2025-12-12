@@ -1,0 +1,14 @@
+dataset:
+  raw_csv_path: data/raw/credit_default_raw.csv
+
+database:
+  sqlite_path: credit_risk.sqlite
+  table_name: credit_applications
+
+columns:
+  id_column: id
+  target_column: default_payment_next_month
+
+splits:
+  test_size: 0.2
+  random_state: 42
