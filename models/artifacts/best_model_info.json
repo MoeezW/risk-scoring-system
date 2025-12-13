@@ -1,0 +1,12 @@
+{
+  "best_run_id": "21658eaf15a34814a3fd7672c3ab15d0",
+  "selection_metric": "roc_auc",
+  "best_score": 0.7593843869873448,
+  "best_metrics": {
+    "roc_auc": 0.7593843869873448,
+    "avg_precision": 0.5371085209319924,
+    "f1": 0.45369916707496327,
+    "precision": 0.6484593837535014,
+    "recall": 0.34890730972117556
+  }
+}
