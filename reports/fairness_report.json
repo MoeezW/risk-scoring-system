@@ -1,0 +1,15 @@
+{
+  "threshold": 0.5,
+  "warn_gap": 0.1,
+  "sex_gap": 0.04040920716112531,
+  "age_gap": 0.8181818181818181,
+  "education_gap": 0.38235294117647056,
+  "warnings": [
+    "High-risk rate gap across age groups is 0.818 (> 0.1).",
+    "High-risk rate gap across education groups is 0.382 (> 0.1)."
+  ],
+  "notes": [
+    "This is a basic score-parity sanity check, not a compliance-grade fairness audit.",
+    "No ground-truth outcomes are available for the new batch, so we cannot compute equalized odds / error-rate parity."
+  ]
+}
